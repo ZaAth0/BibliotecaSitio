@@ -1,0 +1,17 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Ignorar archivos de construcción de Visual Studio
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ist/
+out/
+
+# Ignorar archivos de configuración de Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
